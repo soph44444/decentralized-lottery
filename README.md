@@ -27,5 +27,5 @@ Test by:
 - **Deployed on:** Holesky Testnet
 - **Transaction Hash:** `0xYourTxHashHere`
 
-## 👤 Author
+## Author
 Kevin Canul – (https://github.com/soph44444)
